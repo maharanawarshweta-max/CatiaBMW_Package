@@ -1,2 +1,2 @@
-# CatiaBMW_Package
-application for demo
+# FinalLunchNotepadpacakge
+Notepad application for demo
